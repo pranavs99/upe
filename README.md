@@ -10,7 +10,7 @@ All code created for Upsilon Pi Epsilon, UCLA's CS honor society.
 
 ### Sample output
 
-`level 1 successful\n
+`level 1 successful<br />
 level 2 successful\n
 level 3 successful\n
 level 4 successful\n
