@@ -1,4 +1,4 @@
-All code created for Upsilon Pi Epsilon, UCLA's CS honor society.
+Code for Upsilon Pi Epsilon, UCLA's Computing and Information Sciences honor society.
 
 ## Coding challenge
 
